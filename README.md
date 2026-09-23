@@ -29,10 +29,9 @@ class CyberSecEnthusiast:
 ```
 
 - 🔐 Learning **Network Security & Penetration Testing**
-- 💻 Building offensive & defensive security tools
 - 🎯 Interested in **malware analysis**, **reverse engineering**, and **network forensics**
-- 🛠️ I use AI-assisted development and learn by studying every line I ship
-- 📓 I take handwritten notes on every concept and review them at school
+- 🛠️ Building practical security tools and deep-diving into systems internals
+- 📓 I take handwritten notes on system architectures and protocol mechanics
 - 🎮 Also into game hacking & modding (ETS2, Roblox)
 
 ## 🔧 Tech Stack
