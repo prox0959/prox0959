@@ -90,13 +90,39 @@ Your typing rhythm is unique — like a fingerprint. KeyDNA learns HOW you type 
 <td width="50%">
 
 ### 🌐 [ProxNet](https://github.com/prox0959/ProxNet)
-**AI-powered network threat visualizer**
+**Local network threat visualizer & lightweight IDS**
 
-Scans your local network, maps every device in real-time on an interactive dashboard, and uses anomaly detection to flag suspicious traffic patterns.
+Scans your local subnet, maps every device in real-time as an interactive D3.js physics topology graph, and flags ARP spoofing attacks and exposed management ports.
 
 `Python` `Scapy` `Flask` `D3.js` `WebSocket`
 
 ![Stars](https://img.shields.io/github/stars/prox0959/ProxNet?style=social)
+
+</td>
+<td width="50%">
+
+### 🕵️‍♂️ [ShadowTrace](https://github.com/prox0959/ShadowTrace)
+**Windows program execution forensics & activity timeline tool**
+
+Decodes ROT13-obfuscated UserAssist and RunMRU registry keys. Reconstructs a forensic timeline of executed software, run counts, and active focus durations even if binaries were deleted.
+
+`Python` `Win32 Registry` `DFIR` `Reverse Engineering`
+
+![Stars](https://img.shields.io/github/stars/prox0959/ShadowTrace?style=social)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔌 [GhostUSB](https://github.com/prox0959/GhostUSB)
+**Windows USB hardware forensics & timeline extractor**
+
+Extracts historical USB mass storage and device connection artifacts directly from Windows Registry (USBSTOR & USB), translating 64-bit FILETIME timestamps into forensic timelines.
+
+`Python` `Digital Forensics` `Registry Analysis`
+
+![Stars](https://img.shields.io/github/stars/prox0959/GhostUSB?style=social)
 
 </td>
 <td width="50%">
