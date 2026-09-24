@@ -32,7 +32,7 @@ class CyberSecEnthusiast:
 - 🎯 Interested in **malware analysis**, **reverse engineering**, and **network forensics**
 - 🛠️ Building practical security tools and deep-diving into systems internals
 - 📓 I take handwritten notes on system architectures and protocol mechanics
-- 🎮 Also into game hacking & modding (ETS2, Roblox)
+- 🎮 Also into game hacking & modding (ETS 2 )
 
 ## 🔧 Tech Stack
 
