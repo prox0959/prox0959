@@ -127,14 +127,14 @@ Extracts historical USB mass storage and device connection artifacts directly fr
 </td>
 <td width="50%">
 
-### 🔍 [prox-scope](https://github.com/prox0959/prox-scope)
-**Network reconnaissance tool**
+### 🛡️ [MemGuard](https://github.com/prox0959/MemGuard)
+**Zero-dependency LSASS memory shield & EDR hook detector**
 
-Lightweight network scanning and enumeration tool for security assessments.
+Protects Windows credentials against Mimikatz, ProcDump, and LOLBin dump attacks. Audits NT kernel handle tables via `NtQuerySystemInformation`, decodes Access Masks (`PROCESS_VM_READ`), and freezes rogue dumpers via `NtSuspendProcess`.
 
-`Python` `Scapy` `Network Security`
+`Python` `Windows Internals` `EDR` `MITRE T1003`
 
-![Stars](https://img.shields.io/github/stars/prox0959/prox-scope?style=social)
+![Stars](https://img.shields.io/github/stars/prox0959/MemGuard?style=social)
 
 </td>
 </tr>
