@@ -153,6 +153,32 @@ Zero-dependency live response tool for USB responders. Extracts OS format dates,
 </td>
 <td width="50%">
 
+### 🤖 [PromptSentry](https://github.com/prox0959/PromptSentry)
+**Deterministic AI security gateway & prompt injection firewall**
+
+Zero-dependency reverse proxy gateway intercepting LLM prompts with <1.5ms latency. Employs Shannon information entropy, Cyrillic homoglyph normalizers, and regex heuristics against OWASP LLM01, DAN mode, and payload smuggling.
+
+`Python` `AI Security` `LLM Safety` `OWASP LLM01`
+
+![Stars](https://img.shields.io/github/stars/prox0959/PromptSentry?style=social)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📡 [SpectralCovert](https://github.com/prox0959/SpectralCovert)
+**Network covert channel & Shannon entropy leak detector**
+
+Academic-grade covert channel detector. Analyzes ICMP/TCP payload Shannon entropy ($H(X)$) to flag encrypted exfiltration, and uses Sarle's Bimodality Coefficient ($BC > 0.555$) on Inter-Packet Delays (IPD) to detect and reconstruct hidden timing channels.
+
+`Python` `Network Security` `Information Theory` `Covert Channels`
+
+![Stars](https://img.shields.io/github/stars/prox0959/SpectralCovert?style=social)
+
+</td>
+<td width="50%">
+
 <!-- Reserved for next flagship -->
 
 </td>
