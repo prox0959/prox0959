@@ -179,7 +179,14 @@ Academic-grade covert channel detector. Analyzes ICMP/TCP payload Shannon entrop
 </td>
 <td width="50%">
 
-<!-- Reserved for next flagship -->
+### ⚖️ [TrueVerdict](https://github.com/prox0959/TrueVerdict)
+**Deterministic PE provenance & false-positive reduction engine**
+
+Eliminates false positives on Windows system binaries and developer builds (0.00% benchmark FPR). Verifies both embedded Authenticode and OS Security Catalogs (`.cat`), decrypts `DanS` Rich Header `ROL32` checksums, and detects `IMAGE_DEBUG_TYPE_REPRO` builds.
+
+`Python` `PE Analysis` `Authenticode` `DFIR`
+
+![Stars](https://img.shields.io/github/stars/prox0959/TrueVerdict?style=social)
 
 </td>
 </tr>
@@ -210,9 +217,9 @@ Academic-grade covert channel detector. Analyzes ICMP/TCP payload Shannon entrop
 
 ### 📈 Profile Stats
 ```
-📦 13 Public Repositories        🔤 4 Languages (Python, C++, JS, HTML)
-⭐ Building reputation           🔐 Cybersecurity focused
-📅 Active since Jan 2026         🎯 9 months of consistent building
+📦 20 Public Repositories        🔤 4 Languages (Python, C++, JS, HTML)
+⭐ 10 Flagship Security Tools    🔐 Zero-Dependency DFIR & Internals
+📅 Active since Jan 2026         🎯 Consistent Systems Engineering
 ```
 
 ## 🗺️ Roadmap
@@ -223,9 +230,10 @@ Academic-grade covert channel detector. Analyzes ICMP/TCP payload Shannon entrop
 ✅ Build network scanning tools (prox-scope)
 ✅ PE file analysis & memory dumping (pe-hunter, ets2-dumper)
 ✅ API integrations (Telegram, Discord, TikTok, Roblox)
-✅ Build CryptoClipGuard — clipboard hijack protection
-✅ Build KeyDNA — keystroke biometric authentication
-✅ Build ProxNet — AI network threat visualizer
+✅ Build CryptoClipGuard - clipboard hijack protection
+✅ Build KeyDNA - keystroke biometric authentication
+✅ Build ProxNet - AI network threat visualizer
+✅ Build MemGuard, OmniTriage, SpectralCovert & TrueVerdict (Zero-Dependency Suite)
 ⬜ Contribute to open-source security projects
 ⬜ Participate in CTF competitions (TryHackMe, HackTheBox)
 ⬜ Learn exploit development
