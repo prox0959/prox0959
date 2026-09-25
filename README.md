@@ -138,6 +138,25 @@ Protects Windows credentials against Mimikatz, ProcDump, and LOLBin dump attacks
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### ⚡ [OmniTriage](https://github.com/prox0959/OmniTriage)
+**Sub-second Windows live digital forensics & incident response (DFIR) engine**
+
+Zero-dependency live response tool for USB responders. Extracts OS format dates, PowerShell history, locked Chromium databases, USBSTOR records, and staging binaries in under 1 second. Generates standalone dark-mode HTML dashboards.
+
+`Python` `DFIR` `Incident Response` `Digital Forensics`
+
+![Stars](https://img.shields.io/github/stars/prox0959/OmniTriage?style=social)
+
+</td>
+<td width="50%">
+
+<!-- Reserved for next flagship -->
+
+</td>
+</tr>
 </table>
 
 ## 🛠️ Other Projects
